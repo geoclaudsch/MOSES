@@ -1,4 +1,3 @@
-The folder seasonal_dynamics_control_GHG_in_Elbe_river contains a small script 
 Rivers represent a significant source of the greenhouse gases (GHGs) carbon dioxide (CO₂), methane (CH₄), and nitrous oxide (N₂O). The ratios between the 3 gases, 
 which determine the climate impact of a river, is highly variable both in time and space. We monitored the three GHGs in the German river Elbe over 5 years to identify 
 spatio-temporal pattern of GHG ratios as well as to uncover the mechanisms shaping the relative contribution of the three gases to river GHG emissions.
